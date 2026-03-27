@@ -25,3 +25,5 @@ and unlogged (N15) compartments after 70 years of recovery.
 - iNEXT
 - vegan
 - ggplot2
+- BiodiversityR
+- car
