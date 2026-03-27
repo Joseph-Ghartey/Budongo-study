@@ -1,0 +1,200 @@
+compartment,alpha_diversity,forest_layer,plot_area,plot.id
+unlogged,19,canopy,1000,N15_1_10
+unlogged,16,canopy,1000,N15_1_100
+unlogged,11,canopy,1000,N15_1_110
+unlogged,10,canopy,1000,N15_1_120
+unlogged,15,canopy,1000,N15_1_130
+unlogged,11,canopy,1000,N15_1_140
+unlogged,13,canopy,1000,N15_1_150
+unlogged,10,canopy,1000,N15_1_160
+unlogged,14,canopy,1000,N15_1_170
+unlogged,24,canopy,1000,N15_1_180
+unlogged,18,canopy,1000,N15_1_190
+unlogged,16,canopy,1000,N15_1_20
+unlogged,16,canopy,1000,N15_1_200
+unlogged,16,canopy,1000,N15_1_30
+unlogged,18,canopy,1000,N15_1_40
+unlogged,18,canopy,1000,N15_1_50
+unlogged,19,canopy,1000,N15_1_60
+unlogged,20,canopy,1000,N15_1_70
+unlogged,17,canopy,1000,N15_1_80
+unlogged,18,canopy,1000,N15_1_90
+unlogged,10,canopy,1000,N15_2_10
+unlogged,11,canopy,1000,N15_2_100
+unlogged,12,canopy,1000,N15_2_110
+unlogged,12,canopy,1000,N15_2_120
+unlogged,14,canopy,1000,N15_2_130
+unlogged,15,canopy,1000,N15_2_140
+unlogged,15,canopy,1000,N15_2_150
+unlogged,15,canopy,1000,N15_2_160
+unlogged,10,canopy,1000,N15_2_170
+unlogged,20,canopy,1000,N15_2_180
+unlogged,18,canopy,1000,N15_2_190
+unlogged,17,canopy,1000,N15_2_20
+unlogged,14,canopy,1000,N15_2_200
+unlogged,15,canopy,1000,N15_2_30
+unlogged,15,canopy,1000,N15_2_40
+unlogged,20,canopy,1000,N15_2_50
+unlogged,15,canopy,1000,N15_2_60
+unlogged,20,canopy,1000,N15_2_70
+unlogged,14,canopy,1000,N15_2_80
+unlogged,19,canopy,1000,N15_2_90
+unlogged,17,canopy,1000,N15_3_10
+unlogged,15,canopy,1000,N15_3_100
+unlogged,20,canopy,1000,N15_3_110
+unlogged,15,canopy,1000,N15_3_120
+unlogged,17,canopy,1000,N15_3_130
+unlogged,13,canopy,1000,N15_3_140
+unlogged,18,canopy,1000,N15_3_150
+unlogged,13,canopy,1000,N15_3_160
+unlogged,18,canopy,1000,N15_3_170
+unlogged,19,canopy,1000,N15_3_180
+unlogged,19,canopy,1000,N15_3_190
+unlogged,12,canopy,1000,N15_3_20
+unlogged,13,canopy,1000,N15_3_200
+unlogged,10,canopy,1000,N15_3_30
+unlogged,15,canopy,1000,N15_3_40
+unlogged,12,canopy,1000,N15_3_50
+unlogged,14,canopy,1000,N15_3_60
+unlogged,16,canopy,1000,N15_3_70
+unlogged,14,canopy,1000,N15_3_80
+unlogged,11,canopy,1000,N15_3_90
+unlogged,16,canopy,1000,N15_4_10
+unlogged,20,canopy,1000,N15_4_100
+unlogged,21,canopy,1000,N15_4_110
+unlogged,16,canopy,1000,N15_4_120
+unlogged,13,canopy,1000,N15_4_130
+unlogged,11,canopy,1000,N15_4_140
+unlogged,14,canopy,1000,N15_4_150
+unlogged,16,canopy,1000,N15_4_160
+unlogged,16,canopy,1000,N15_4_170
+unlogged,18,canopy,1000,N15_4_180
+unlogged,20,canopy,1000,N15_4_190
+unlogged,9,canopy,1000,N15_4_20
+unlogged,16,canopy,1000,N15_4_30
+unlogged,15,canopy,1000,N15_4_40
+unlogged,13,canopy,1000,N15_4_50
+unlogged,18,canopy,1000,N15_4_60
+unlogged,20,canopy,1000,N15_4_70
+unlogged,15,canopy,1000,N15_4_80
+unlogged,16,canopy,1000,N15_4_90
+unlogged,14,canopy,1000,N15_5_10
+unlogged,20,canopy,1000,N15_5_100
+unlogged,22,canopy,1000,N15_5_110
+unlogged,21,canopy,1000,N15_5_120
+unlogged,21,canopy,1000,N15_5_130
+unlogged,16,canopy,1000,N15_5_140
+unlogged,19,canopy,1000,N15_5_150
+unlogged,12,canopy,1000,N15_5_160
+unlogged,11,canopy,1000,N15_5_170
+unlogged,12,canopy,1000,N15_5_180
+unlogged,12,canopy,1000,N15_5_190
+unlogged,15,canopy,1000,N15_5_20
+unlogged,22,canopy,1000,N15_5_200
+unlogged,19,canopy,1000,N15_5_30
+unlogged,16,canopy,1000,N15_5_40
+unlogged,20,canopy,1000,N15_5_50
+unlogged,21,canopy,1000,N15_5_60
+unlogged,12,canopy,1000,N15_5_70
+unlogged,22,canopy,1000,N15_5_80
+unlogged,18,canopy,1000,N15_5_90
+unlogged,4,regeneration,16,N15  _5_10
+unlogged,10,regeneration,16,N15  _5_100
+unlogged,14,regeneration,16,N15  _5_110
+unlogged,17,regeneration,16,N15  _5_120
+unlogged,14,regeneration,16,N15  _5_130
+unlogged,20,regeneration,16,N15  _5_140
+unlogged,9,regeneration,16,N15  _5_150
+unlogged,13,regeneration,16,N15  _5_160
+unlogged,12,regeneration,16,N15  _5_170
+unlogged,12,regeneration,16,N15  _5_180
+unlogged,11,regeneration,16,N15  _5_190
+unlogged,15,regeneration,16,N15  _5_20
+unlogged,10,regeneration,16,N15  _5_200
+unlogged,11,regeneration,16,N15  _5_30
+unlogged,14,regeneration,16,N15  _5_40
+unlogged,13,regeneration,16,N15  _5_50
+unlogged,8,regeneration,16,N15  _5_60
+unlogged,11,regeneration,16,N15  _5_70
+unlogged,15,regeneration,16,N15  _5_80
+unlogged,15,regeneration,16,N15  _5_90
+unlogged,10,regeneration,16,N15 _ 4_10
+unlogged,15,regeneration,16,N15 _ 4_100
+unlogged,12,regeneration,16,N15 _ 4_110
+unlogged,15,regeneration,16,N15 _ 4_120
+unlogged,16,regeneration,16,N15 _ 4_130
+unlogged,4,regeneration,16,N15 _ 4_140
+unlogged,11,regeneration,16,N15 _ 4_150
+unlogged,13,regeneration,16,N15 _ 4_160
+unlogged,12,regeneration,16,N15 _ 4_170
+unlogged,11,regeneration,16,N15 _ 4_180
+unlogged,15,regeneration,16,N15 _ 4_190
+unlogged,9,regeneration,16,N15 _ 4_20
+unlogged,12,regeneration,16,N15 _ 4_30
+unlogged,11,regeneration,16,N15 _ 4_40
+unlogged,9,regeneration,16,N15 _ 4_50
+unlogged,13,regeneration,16,N15 _ 4_60
+unlogged,15,regeneration,16,N15 _ 4_70
+unlogged,9,regeneration,16,N15 _ 4_80
+unlogged,10,regeneration,16,N15 _ 4_90
+unlogged,4,regeneration,16,N15 _ 5_10
+unlogged,14,regeneration,16,N15 _1_10
+unlogged,13,regeneration,16,N15 _1_100
+unlogged,6,regeneration,16,N15 _1_110
+unlogged,8,regeneration,16,N15 _1_120
+unlogged,9,regeneration,16,N15 _1_130
+unlogged,13,regeneration,16,N15 _1_140
+unlogged,14,regeneration,16,N15 _1_150
+unlogged,8,regeneration,16,N15 _1_160
+unlogged,9,regeneration,16,N15 _1_170
+unlogged,12,regeneration,16,N15 _1_180
+unlogged,14,regeneration,16,N15 _1_190
+unlogged,12,regeneration,16,N15 _1_20
+unlogged,16,regeneration,16,N15 _1_200
+unlogged,12,regeneration,16,N15 _1_30
+unlogged,15,regeneration,16,N15 _1_40
+unlogged,13,regeneration,16,N15 _1_50
+unlogged,14,regeneration,16,N15 _1_60
+unlogged,17,regeneration,16,N15 _1_70
+unlogged,19,regeneration,16,N15 _1_80
+unlogged,11,regeneration,16,N15 _1_90
+unlogged,11,regeneration,16,N15 _2_10
+unlogged,11,regeneration,16,N15 _2_100
+unlogged,7,regeneration,16,N15 _2_110
+unlogged,16,regeneration,16,N15 _2_120
+unlogged,13,regeneration,16,N15 _2_130
+unlogged,9,regeneration,16,N15 _2_140
+unlogged,12,regeneration,16,N15 _2_150
+unlogged,12,regeneration,16,N15 _2_160
+unlogged,11,regeneration,16,N15 _2_170
+unlogged,15,regeneration,16,N15 _2_180
+unlogged,15,regeneration,16,N15 _2_190
+unlogged,13,regeneration,16,N15 _2_20
+unlogged,15,regeneration,16,N15 _2_200
+unlogged,12,regeneration,16,N15 _2_30
+unlogged,14,regeneration,16,N15 _2_40
+unlogged,16,regeneration,16,N15 _2_50
+unlogged,14,regeneration,16,N15 _2_60
+unlogged,13,regeneration,16,N15 _2_70
+unlogged,14,regeneration,16,N15 _2_80
+unlogged,10,regeneration,16,N15 _2_90
+unlogged,12,regeneration,16,N15 _3_10
+unlogged,11,regeneration,16,N15 _3_100
+unlogged,11,regeneration,16,N15 _3_110
+unlogged,16,regeneration,16,N15 _3_120
+unlogged,13,regeneration,16,N15 _3_130
+unlogged,18,regeneration,16,N15 _3_140
+unlogged,13,regeneration,16,N15 _3_150
+unlogged,6,regeneration,16,N15 _3_160
+unlogged,8,regeneration,16,N15 _3_170
+unlogged,14,regeneration,16,N15 _3_180
+unlogged,14,regeneration,16,N15 _3_190
+unlogged,11,regeneration,16,N15 _3_20
+unlogged,18,regeneration,16,N15 _3_200
+unlogged,10,regeneration,16,N15 _3_30
+unlogged,13,regeneration,16,N15 _3_40
+unlogged,8,regeneration,16,N15 _3_50
+unlogged,11,regeneration,16,N15 _3_60
+unlogged,12,regeneration,16,N15 _3_70
+unlogged,9,regeneration,16,N15 _3_80
+unlogged,10,regeneration,16,N15 _3_90
